@@ -33,12 +33,12 @@ Questions:
      know every single thing about the imaginary client in a school project. This section did give me a lot new ideas to consider when it comes to designing software though.
 
 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-   - First of all, any business should want to provide the product that the client is looking for. Oherwise, that is just a bad business, and you won't be getting paid well
-     or getting any new clients possibly. Aside from the obvious, you should want your product to align with the needs of the client so you can assure that there is a budget
+   - First of all, any business should want to provide the product that the client is looking for. Otherwise, that is just bad business, and you won't be getting paid well
+     or possibly getting any new clients. Aside from the obvious, you should want your product to align with the needs of the client so you can be assured that there is a budget
      available, development tools available, and anything else you need to be sucessfull. It's always good to have a plan before you begin something big, and that's what a design
      document is for. The client wanted to consider cost, so I learned of cloud servers which can be much more affordable than traditional servers. I also knew the client wanted
-     a game that could be playable by many people, and show the users hundereds of photos in high definition. For this project to be sucessfull, it was clear that good memory
-     and storage would be a must. Security was also a priority, so it would also be important to implement good security measures. Ignorming anything on the design document here
+     a game that could be playable by many people, and show the users hundreds of photos in high definition. For this project to be sucessfull, it was clear that good memory
+     and storage would be a must. Security was also a priority, so it would also be important to implement good security measures. Ignoring anything on the design document here
      could lead to a failed business exchange.
 
 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
